@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-06-09 22:04:37
+ * @version $Id$
+ */
+canvas{
+	display: block;
+	margin: 50px auto;
+	box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #B9B9B9;
+}
